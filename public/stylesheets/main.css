@@ -1,0 +1,25 @@
+/* .about-img{
+    max-width: 30rem;
+} */
+
+@media screen and (max-width: 480px) {
+    h1{
+        font-size:1.2rem;
+    }
+    body{
+        font-size: 0.8rem;
+    }
+    .btn{
+        font-size: 0.8rem;
+        padding:0.3rem;
+    }
+    .starability-basic{
+        font-size: 1rem;
+    }
+    .lead{
+        font-size: 1rem;
+    }
+    /* .about-img{
+        max-width: 30rem;
+    } */
+  }
